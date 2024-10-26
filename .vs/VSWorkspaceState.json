@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\img"
+    "\\assets\\img",
+    "\\_layouts"
   ],
+  "SelectedNode": "\\index.md",
   "PreviewInSolutionExplorer": false
 }
