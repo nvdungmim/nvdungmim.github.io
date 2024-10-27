@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\assets",
+    "\\assets\\img",
     "\\_layouts",
     "\\_sass"
   ],
-  "SelectedNode": "\\_sass\\minimal-light-ori.scss",
+  "SelectedNode": "\\_layouts\\default.html",
   "PreviewInSolutionExplorer": false
 }
