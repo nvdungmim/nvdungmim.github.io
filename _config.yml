@@ -3,7 +3,7 @@ title: Nguyễn Văn Dũng
 position: Bachelor Student
 affiliation: Hanoi University of Science
 affiliation_link: http://mim.hus.vnu.edu.vn/
-affiliation_logo: ./assets/img/illinois.svg
+affiliation_logo: 
 email: nvandungmim (at) gmail.com
 
 # Search Engine Optimization (SEO)
@@ -25,7 +25,7 @@ linkedin: https://www.linkedin.com/in/liuyaoyao/
 twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: https://img.yliu.me/avatar_new.jpg
+avatar: ./assets/img/avt.jpg
 
 # Footnotes
 footnote: Feel free to use my website's source code.
