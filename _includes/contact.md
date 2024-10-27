@@ -1,9 +1,9 @@
-<h2 style="margin: 60px 0px 10px;">Contact</h2>
+﻿<h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/sTBLkKCDBaAD81eA9">614 E. Daniel St., Champaign, IL 61820</a>
+<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/sTBLkKCDBaAD81eA9">334 Nguyễn Trãi, Thanh Xuân, Hà Nội, Việt Nam</a>
 <br />
-<strong>Office Location:</strong> Room 5125 
+<strong>Office Location:</strong> 
 <br />
-<strong>Email:</strong> <email>lyy (at) illinois.edu</email>
+<strong>Email:</strong> <email>nvandungmim (at) gmail.com</email>
 <br />
-<strong>Phone:</strong> (217) 300-0910</p>
+<strong>Phone:</strong> </p>

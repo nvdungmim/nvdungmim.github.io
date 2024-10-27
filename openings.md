@@ -1,4 +1,4 @@
----
+﻿---
 layout: simple
 title: Openings
 permalink: /openings/
@@ -25,6 +25,6 @@ I always welcome visiting students and independent study students for collaborat
 
 ### Contact information
 
-<strong>Email:</strong> <email><a href="mailto:lyy+apply@g.illinois.edu">lyy+apply@g.illinois.edu</a></email>
+<strong>Email:</strong> <email><a href="mailto:lyy+apply@g.illinois.edu">nvandungmim@gmail.com</a></email>
 <br>
-<strong>Office:</strong> <a href="https://maps.app.goo.gl/sTBLkKCDBaAD81eA9">Room 5125, 614 E. Daniel St., Champaign, IL 61820</a>
+<strong>Office:</strong> <a href="https://maps.app.goo.gl/sTBLkKCDBaAD81eA9">334 Nguyễn Trãi, Thanh Xuân, Hà Nội, Việt Nam</a>
