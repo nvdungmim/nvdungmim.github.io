@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\jekyll\\blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_sass\\minimal-light-ori.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_sass\\minimal-light-ori.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_sass\\minimal-light.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_sass\\minimal-light.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_sass\\minimal-light-ori.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_sass\\minimal-light-ori.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_layouts\\default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -138,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -163,8 +163,7 @@
               "RelativeToolTip": "_config.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-10-26T20:26:06.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T20:26:06.913Z"
             },
             {
               "$type": "Document",
@@ -188,8 +187,7 @@
               "RelativeToolTip": "_includes\\publications.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-27T05:41:02.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T05:41:02.834Z"
             },
             {
               "$type": "Document",
@@ -201,31 +199,30 @@
               "RelativeToolTip": "_layouts\\default.html",
               "ViewState": "AgIAAGkAAAAAAAAAAAAAAIMAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-26T20:44:45.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T20:44:45.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "minimal-light-ori.scss",
               "DocumentMoniker": "D:\\jekyll\\blog\\_sass\\minimal-light-ori.scss",
               "RelativeDocumentMoniker": "_sass\\minimal-light-ori.scss",
               "ToolTip": "D:\\jekyll\\blog\\_sass\\minimal-light-ori.scss",
               "RelativeToolTip": "_sass\\minimal-light-ori.scss",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
               "WhenOpened": "2024-10-27T09:49:52.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "minimal-light.scss",
               "DocumentMoniker": "D:\\jekyll\\blog\\_sass\\minimal-light.scss",
               "RelativeDocumentMoniker": "_sass\\minimal-light.scss",
               "ToolTip": "D:\\jekyll\\blog\\_sass\\minimal-light.scss",
               "RelativeToolTip": "_sass\\minimal-light.scss",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
               "WhenOpened": "2024-10-27T09:51:06.185Z",
               "EditorCaption": ""
