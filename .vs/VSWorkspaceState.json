@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\img"
+    "\\assets\\Illinois",
+    "\\_includes",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_layouts\\homepage.html",
   "PreviewInSolutionExplorer": false
 }
