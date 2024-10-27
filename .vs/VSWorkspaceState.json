@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\Illinois",
+    "\\assets\\HUS",
     "\\_includes",
     "\\_layouts"
   ],
-  "SelectedNode": "\\_layouts\\homepage.html",
+  "SelectedNode": "\\_layouts\\simple.html",
   "PreviewInSolutionExplorer": false
 }
