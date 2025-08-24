@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_data",
-    "\\_includes",
-    "\\_posts",
-    "\\_sass"
+    "\\_layouts",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_posts\\2024-10-27-welcome-to-jekyll.markdown",
+  "SelectedNode": "\\_layouts\\default.html",
   "PreviewInSolutionExplorer": false
 }
