@@ -1,7 +1,9 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Nov. 2024]</strong> I will participate in the <a href="https://viasm.edu.vn/hdkh/MOD-NB-2024">Math Open Day 2024</a> at Ninh Binh!</li>
+<li><strong>[Jul. 2025]</strong> I will participate in the <a href="https://viasm.edu.vn/hdkh/truong-he-toan-hoc-sinh-vien-nam-2025">summer school</a> organized by VIASM at Da Nang!</li>
+<li><strong>[Nov. 2024]</strong> I will contribute by organizing some games for children at the <a href="https://viasm.edu.vn/hdkh/MOD-NB-2024">Math Open Day Ninh Binh 2024</a>.</li>
+<!--
 <li><strong>[Sep. 2024]</strong> Two papers about <a href="./publications/">3D</a> are accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> and its D&B track.</li>
 <li><strong>[Sep. 2024]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2025</a>, <a href="https://iclr.cc/">ICLR 2025</a>, and <a href="https://aistats.org/aistats2025/">AISTATS 2025</a>.</li>
 <li><strong>[Aug. 2024]</strong> I will serve as a Senior Program Committee Member of <a href="https://aaai.org/conference/aaai/aaai-25/">AAAI 2025</a>.</li>
@@ -20,9 +22,10 @@
 <li><strong>[Mar. 2023]</strong> I gave a talk on continual learning at <a href="https://vigr.cs.columbia.edu/vigr_seminar.html">Columbia VIGR Seminar</a>. </li>
 <li><strong>[Mar. 2023]</strong> I gave a talk on few-shot learning at EPFL. </li>
 <li><strong>[Feb. 2023]</strong> Two papers about <a href="./publications/">continual learning</a> are accepted to <a href="http://cvpr2023.thecvf.com/">CVPR 2023</a>.</li>
-  
+-->
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
+  <!--
   <li><strong>[Dec. 2022]</strong> <a href="https://www.bmvc2023.org">BMVC 2023</a> will be held in Aberdeen, UK, and I will serve as the Website Chair.</li>
   <li><strong>[Nov. 2022]</strong> Our paper about <a href="https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content">class-incremental learning</a> is accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.</li>
   <li><strong>[Oct. 2022]</strong> I am recognized as a top reviewer for <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">NeurIPS 2022</a>.</li>
@@ -36,6 +39,7 @@
   <li><strong>[Feb. 2020]</strong> We will host the <a href="https://www.acmmmasia.org/2020/committee.html">ACM Multimedia Asia 2020</a> conference in Singapore!</li>
   <li><strong>[Sep. 2019]</strong> Our paper about <a href="https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf">few-shot learning</a> is accepted to <a href="https://nips.cc/Conferences/2019">NeurIPS 2019</a>.</li>
   <li><strong>[Mar. 2019]</strong> Our paper about <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf">few-shot learning</a> is accepted to <a href="http://cvpr2019.thecvf.com/">CVPR 2019</a>.</li>
+  -->
 </div>
 
 </ul>
