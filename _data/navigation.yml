@@ -13,5 +13,8 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
+  - title: "My Blog"
+    url: /blog/
+
   - title: "Home"
     url: /
