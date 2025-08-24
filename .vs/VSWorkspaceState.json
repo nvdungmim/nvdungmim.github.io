@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\_includes",
     "\\_layouts",
-    "\\_posts"
+    "\\_posts",
+    "\\_sass"
   ],
+  "SelectedNode": "\\_layouts\\default.html",
   "PreviewInSolutionExplorer": false
 }
