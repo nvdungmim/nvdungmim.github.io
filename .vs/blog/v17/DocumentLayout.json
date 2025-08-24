@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\jekyll\\blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_includes\\navigation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\navigation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\blog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:blog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\about.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_posts\\2024-10-27-welcome-to-jekyll.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-10-27-welcome-to-jekyll.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_includes\\news.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -29,6 +13,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\index.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\build.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_includes\\navigation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\navigation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\about.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_posts\\2024-10-27-welcome-to-jekyll.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-10-27-welcome-to-jekyll.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\biography.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -95,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:openings.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\index.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\_data\\publications.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\publications.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -129,10 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\CNAME||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CNAME||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\build.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\jekyll\\blog\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -166,11 +166,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "openings.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\openings.md",
               "RelativeDocumentMoniker": "openings.md",
@@ -183,33 +183,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "blog.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\blog.md",
               "RelativeDocumentMoniker": "blog.md",
               "ToolTip": "D:\\jekyll\\blog\\blog.md",
               "RelativeToolTip": "blog.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-08-24T14:25:38.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "2024-10-27-welcome-to-jekyll.markdown",
-              "DocumentMoniker": "D:\\jekyll\\blog\\_posts\\2024-10-27-welcome-to-jekyll.markdown",
-              "RelativeDocumentMoniker": "_posts\\2024-10-27-welcome-to-jekyll.markdown",
-              "ToolTip": "D:\\jekyll\\blog\\_posts\\2024-10-27-welcome-to-jekyll.markdown",
-              "RelativeToolTip": "_posts\\2024-10-27-welcome-to-jekyll.markdown",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-24T14:21:53.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "index.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\index.md",
               "RelativeDocumentMoniker": "index.md",
@@ -217,23 +204,12 @@
               "RelativeToolTip": "index.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-27T10:15:12.033Z"
+              "WhenOpened": "2024-10-27T10:15:12.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "biography.md",
-              "DocumentMoniker": "D:\\jekyll\\blog\\biography.md",
-              "RelativeDocumentMoniker": "biography.md",
-              "ToolTip": "D:\\jekyll\\blog\\biography.md",
-              "RelativeToolTip": "biography.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-26T20:40:16.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "navigation.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\_includes\\navigation.md",
               "RelativeDocumentMoniker": "_includes\\navigation.md",
@@ -241,12 +217,11 @@
               "RelativeToolTip": "_includes\\navigation.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-27T05:39:34.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T05:39:34.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "navigation.yml",
               "DocumentMoniker": "D:\\jekyll\\blog\\_data\\navigation.yml",
               "RelativeDocumentMoniker": "_data\\navigation.yml",
@@ -259,7 +234,70 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "build.sh",
+              "DocumentMoniker": "D:\\jekyll\\blog\\build.sh",
+              "RelativeDocumentMoniker": "build.sh",
+              "ToolTip": "D:\\jekyll\\blog\\build.sh",
+              "RelativeToolTip": "build.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-10-27T05:33:34.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.markdown",
+              "DocumentMoniker": "D:\\jekyll\\blog\\index.markdown",
+              "RelativeDocumentMoniker": "index.markdown",
+              "ToolTip": "D:\\jekyll\\blog\\index.markdown",
+              "RelativeToolTip": "index.markdown",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-27T05:19:31.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "news.md",
+              "DocumentMoniker": "D:\\jekyll\\blog\\_includes\\news.md",
+              "RelativeDocumentMoniker": "_includes\\news.md",
+              "ToolTip": "D:\\jekyll\\blog\\_includes\\news.md",
+              "RelativeToolTip": "_includes\\news.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-24T13:32:33.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "biography.md",
+              "DocumentMoniker": "D:\\jekyll\\blog\\biography.md",
+              "RelativeDocumentMoniker": "biography.md",
+              "ToolTip": "D:\\jekyll\\blog\\biography.md",
+              "RelativeToolTip": "biography.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-26T20:40:16.4Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "2024-10-27-welcome-to-jekyll.markdown",
+              "DocumentMoniker": "D:\\jekyll\\blog\\_posts\\2024-10-27-welcome-to-jekyll.markdown",
+              "RelativeDocumentMoniker": "_posts\\2024-10-27-welcome-to-jekyll.markdown",
+              "ToolTip": "D:\\jekyll\\blog\\_posts\\2024-10-27-welcome-to-jekyll.markdown",
+              "RelativeToolTip": "_posts\\2024-10-27-welcome-to-jekyll.markdown",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-24T14:21:53.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "teaching.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\_includes\\teaching.md",
               "RelativeDocumentMoniker": "_includes\\teaching.md",
@@ -271,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "talks.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\_includes\\talks.md",
               "RelativeDocumentMoniker": "_includes\\talks.md",
@@ -283,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "about.markdown",
               "DocumentMoniker": "D:\\jekyll\\blog\\about.markdown",
               "RelativeDocumentMoniker": "about.markdown",
@@ -291,25 +329,11 @@
               "RelativeToolTip": "about.markdown",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-26T20:41:22.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T20:41:22.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "news.md",
-              "DocumentMoniker": "D:\\jekyll\\blog\\_includes\\news.md",
-              "RelativeDocumentMoniker": "_includes\\news.md",
-              "ToolTip": "D:\\jekyll\\blog\\_includes\\news.md",
-              "RelativeToolTip": "_includes\\news.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-08-24T13:32:33.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "preprints.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\_includes\\preprints.md",
               "RelativeDocumentMoniker": "_includes\\preprints.md",
@@ -321,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "services.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\_includes\\services.md",
               "RelativeDocumentMoniker": "_includes\\services.md",
@@ -333,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "talks.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\talks.md",
               "RelativeDocumentMoniker": "talks.md",
@@ -345,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "sitemap.xml",
               "DocumentMoniker": "D:\\jekyll\\blog\\sitemap.xml",
               "RelativeDocumentMoniker": "sitemap.xml",
@@ -357,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "_config.yml",
               "DocumentMoniker": "D:\\jekyll\\blog\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
@@ -369,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "services.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\services.md",
               "RelativeDocumentMoniker": "services.md",
@@ -381,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "publications.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\_includes\\publications.md",
               "RelativeDocumentMoniker": "_includes\\publications.md",
@@ -393,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "minimal-light.scss",
               "DocumentMoniker": "D:\\jekyll\\blog\\_sass\\minimal-light.scss",
               "RelativeDocumentMoniker": "_sass\\minimal-light.scss",
@@ -405,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "contact.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\_includes\\contact.md",
               "RelativeDocumentMoniker": "_includes\\contact.md",
@@ -417,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "minimal-light-ori.scss",
               "DocumentMoniker": "D:\\jekyll\\blog\\_sass\\minimal-light-ori.scss",
               "RelativeDocumentMoniker": "_sass\\minimal-light-ori.scss",
@@ -429,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "homepage.html",
               "DocumentMoniker": "D:\\jekyll\\blog\\_layouts\\homepage.html",
               "RelativeDocumentMoniker": "_layouts\\homepage.html",
@@ -441,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "publications.md",
               "DocumentMoniker": "D:\\jekyll\\blog\\publications.md",
               "RelativeDocumentMoniker": "publications.md",
@@ -453,19 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "index.markdown",
-              "DocumentMoniker": "D:\\jekyll\\blog\\index.markdown",
-              "RelativeDocumentMoniker": "index.markdown",
-              "ToolTip": "D:\\jekyll\\blog\\index.markdown",
-              "RelativeToolTip": "index.markdown",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-27T05:19:31.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "publications.yml",
               "DocumentMoniker": "D:\\jekyll\\blog\\_data\\publications.yml",
               "RelativeDocumentMoniker": "_data\\publications.yml",
@@ -477,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "preprints.yml",
               "DocumentMoniker": "D:\\jekyll\\blog\\_data\\preprints.yml",
               "RelativeDocumentMoniker": "_data\\preprints.yml",
@@ -489,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "default.html",
               "DocumentMoniker": "D:\\jekyll\\blog\\_layouts\\default.html",
               "RelativeDocumentMoniker": "_layouts\\default.html",
@@ -501,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "simple.html",
               "DocumentMoniker": "D:\\jekyll\\blog\\_layouts\\simple.html",
               "RelativeDocumentMoniker": "_layouts\\simple.html",
@@ -513,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "nav-ori.css",
               "DocumentMoniker": "D:\\jekyll\\blog\\assets\\css\\nav-ori.css",
               "RelativeDocumentMoniker": "assets\\css\\nav-ori.css",
@@ -525,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "pub-ori.css",
               "DocumentMoniker": "D:\\jekyll\\blog\\assets\\css\\pub-ori.css",
               "RelativeDocumentMoniker": "assets\\css\\pub-ori.css",
@@ -537,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Gemfile",
               "DocumentMoniker": "D:\\jekyll\\blog\\Gemfile",
               "RelativeDocumentMoniker": "Gemfile",
@@ -549,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "CNAME",
               "DocumentMoniker": "D:\\jekyll\\blog\\CNAME",
               "RelativeDocumentMoniker": "CNAME",
@@ -558,18 +570,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-10-26T20:41:44.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "build.sh",
-              "DocumentMoniker": "D:\\jekyll\\blog\\build.sh",
-              "RelativeDocumentMoniker": "build.sh",
-              "ToolTip": "D:\\jekyll\\blog\\build.sh",
-              "RelativeToolTip": "build.sh",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
-              "WhenOpened": "2024-10-27T05:33:34.874Z"
             },
             {
               "$type": "Document",

@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\_data",
+    "\\_includes",
     "\\_posts",
     "\\_sass"
   ],
-  "SelectedNode": "\\_data\\navigation.yml",
+  "SelectedNode": "\\blog.md",
   "PreviewInSolutionExplorer": false
 }
